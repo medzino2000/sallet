@@ -1,0 +1,41 @@
+.sabs{
+
+  border: 1px solid #0babc1;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: -135px;
+  background-color: white;
+  padding: 1rem 3.75rem;
+  position: relative;
+  z-index: 2;
+  height: 199px;
+}
+.sabs p {
+  width: 400px;
+  
+}
+.inp {
+  border: 1px solid #0babc1;
+  width: 255px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 5px;
+  height: 25px;
+  padding: 3px;
+  border-radius: 20px;
+}
+
+input {
+  border: none;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+button {
+  background-color: #0babc1;
+  color: white;
+  border: 1px solid #0babc1;
+  border-radius: 20px;
+  padding: 4px;
+  margin-right: -12px;
+  padding: 0.35rem 1rem;
+}

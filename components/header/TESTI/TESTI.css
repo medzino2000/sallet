@@ -1,0 +1,27 @@
+
+.testi {
+  width: 405px;
+  margin-left: 20px;
+}
+.Test-Monial{
+  display: flex;
+  justify-content: space-between;
+  margin-top: -50px;
+  border: 1px red solid;
+  padding: 1rem;
+}
+.image07{
+  margin-top: 20px;
+  width: 75px;
+  height: 75px;
+}
+.para{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+@media (max-width: 1099px) {
+  .Test-Monial {
+    
+  }
+}

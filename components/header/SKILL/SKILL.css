@@ -1,0 +1,20 @@
+.skill {
+  width: 100%;
+  text-align: center;
+  margin-top: 200px;
+  z-index: 999;
+}
+
+.skill p {
+  font-family: 'Poppins', sans-serif;
+  z-index: 999;
+}
+
+.skill h2 {
+  font-family: 'Abhaya Libre', serif;
+  font-size: 35px;
+  color: #0babc1;
+  letter-spacing: -0.9px;
+  margin-top: -15px;
+  font-weight: bold;
+}
